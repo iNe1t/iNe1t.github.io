@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@700&display=swap');
+/*font-family: 'Manrope', sans-serif;*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,800&display=swap');
+/*font-family: 'Montserrat', sans-serif;*/
+
+body{
+    background-image: url(frstbkgrd.png);
+    display: flex;
+    flex-direction:column;
+}
+
+.forheader {
+    background-color:#282C62;
+    width: 105%;
+    margin: -10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 5px 0px;
+}
+.forheader img{
+    width: 100%;
+    height: 20%;
+}
+.formain {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.button, .button1, .button2, .button3, .button4, .button5, .button6 {
+    height: 140px;
+    width: 42%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    border-radius: 30px;
+    margin: 5px;
+    margin-top: 25px;
+}
+.button a, .button1 a, .button2 a, .button3 a, .button4 a, .button5 a, .button6 a {
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    font-family: 'Manrope', sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
+.button img, .button1 img, .button2 img, .button3 img, .button4 img, .button5 img, .button6 img {
+    width: 100px;
+    height: 80px;
+}
+.button{
+    background-color: #4EC0E7;
+}
+.button1{
+    background-color: #59A578;
+}
+.button2{
+    background-color: #8B7ACC;
+}
+.button3{
+    background-color: #3AAA35;
+}
+.button4{
+    background-color: #E53061;
+}
+.button5{
+    background-color: #EC6856;
+}
+.button6{
+    background-color: #F9BA51;
+}
+.button3 a{
+    font-size: 12px;
+}
+.button6 a{
+    font-size: 14px;
+}

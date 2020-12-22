@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@700&display=swap');
+/*font-family: 'Manrope', sans-serif;*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,800&display=swap');
+/*font-family: 'Montserrat', sans-serif;*/
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500&display=swap');
+/*font-family: 'Manrope', sans-serif;*/
+.forheader {
+    background-color: #3AAA35;
+    width: 100%;
+    margin: -10px -10px 10px -10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 250%;
+    padding: 8px 4px;
+}
+.mainest{  
+    background-image: url("Backg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 105vh;
+    margin: -10px;
+    margin-top: -10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color:black;
+    font-family: 'Montserrat', sans-serif;
+}
+.textcontact{
+    padding: 10px;
+    padding-top: 25px;
+}
+.numb1 {
+    color: #00B3BA;
+    font-size: 30px ;
+}
+.numb2 {
+    color: #3AAA35;
+    font-size: 20px;
+}
+.weekend{
+    color: #EC6856;
+}

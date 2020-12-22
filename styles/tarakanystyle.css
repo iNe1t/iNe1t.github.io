@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@700&display=swap');
+/*font-family: 'Manrope', sans-serif;*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,800&display=swap');
+/*font-family: 'Montserrat', sans-serif;*/
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500&display=swap');
+/*font-family: 'Manrope', sans-serif;*/
+body {
+    background-image: url(secbkgrd.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.forheader {
+    background-color: #3AAA35;
+    width: 100%;
+    margin: -10px -10px 10px -10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 300%;
+    padding: 8px 4px;
+}
+.formain {
+    width: 100vw;
+    height: 100vh;
+    margin: 0px;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(secbkgrd.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.button {
+    border-radius: 30px;
+    width: 300px;
+    height: 120px;
+    background-color: #59A578;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+}
+.button a {
+    font-family: 'Manrope', sans-serif;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
