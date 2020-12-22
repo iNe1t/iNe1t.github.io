@@ -5,9 +5,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500&display=swap');
 /*font-family: 'Manrope', sans-serif;*/
 body {
-    background-image: url(secbkgrd.png);
-    background-repeat: no-repeat;
-    background-size: cover;
     margin: 0px;
     display: flex;
     align-items: center;
