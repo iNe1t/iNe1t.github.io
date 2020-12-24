@@ -10,7 +10,7 @@ body{
 
 .forheader {
     background-color:#282C62;
-    width: 105%;
+    width: 100vw;
     margin: -10px;
     display: flex;
     align-items: center;
@@ -28,7 +28,7 @@ body{
 }
 .button, .button1, .button2, .button3, .button4, .button5, .button6 {
     height: 140px;
-    width: 42%;
+    width: 42vw;
     display: flex;
     flex-direction: column;
     align-items: center;
