@@ -35,6 +35,7 @@ body {
 }
 .collapse_container {
     margin: 10px;
+    width: 100vw;
 }
 .owner_page {
     background-color: #00B3BA;
