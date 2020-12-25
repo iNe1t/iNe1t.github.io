@@ -49,6 +49,10 @@ body {
 .owner_page p{
     text-align: center;
 }
+.collapse_container {
+    margin: 10px;
+    width: 100vw;
+}
 .mainbutton {
     border-radius: 30px;
     width: 150px;
