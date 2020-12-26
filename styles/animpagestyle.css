@@ -96,3 +96,8 @@ main {
 .my_collapse {
     width:100vw;
 }
+.button_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
