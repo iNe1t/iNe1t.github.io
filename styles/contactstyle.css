@@ -6,7 +6,7 @@
 /*font-family: 'Manrope', sans-serif;*/
 .forheader {
     background-color: #3AAA35;
-    width: 100%;
+    width: 100vw;
     margin: -10px -10px 10px -10px;
     display: flex;
     justify-content: center;
