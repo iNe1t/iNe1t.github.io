@@ -26,7 +26,7 @@ body{
     justify-content: center;
     flex-wrap: wrap;
 }
-.button, .button1, .button2, .button3, .button4, .button5, .button6 {
+.back, .back1, .back2, .back3, .back4, .back5, .back6 {
     height: 140px;
     width: 42vw;
     display: flex;
@@ -38,42 +38,41 @@ body{
     margin: 5px;
     margin-top: 25px;
 }
-.button a, .button1 a, .button2 a, .button3 a, .button4 a, .button5 a, .button6 a {
-    color: white;
-    text-decoration: none;
-    padding: 5px;
-    font-family: 'Manrope', sans-serif;
-    font-size: 18px;
-    text-align: center;
-}
-.button img, .button1 img, .button2 img, .button3 img, .button4 img, .button5 img, .button6 img {
+.back img, .back1 img, .back2 img, .back3 img, .back4 img, .back5 img, .back6 img {
     width: 100px;
     height: 80px;
 }
-.button{
+.back{
     background-color: #4EC0E7;
 }
-.button1{
+.back1{
     background-color: #59A578;
 }
-.button2{
+.back2{
     background-color: #8B7ACC;
 }
-.button3{
+.back3{
     background-color: #3AAA35;
 }
-.button4{
+.back4{
     background-color: #E53061;
 }
-.button5{
+.back5{
     background-color: #EC6856;
 }
-.button6{
+.back6{
     background-color: #F9BA51;
 }
-.button3 a{
+.back3 a{
     font-size: 12px;
 }
-.button6 a{
+.back6 a{
     font-size: 14px;
+}
+.link {
+    font-family: 'Manrope', sans-serif;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    text-align: center;
 }
