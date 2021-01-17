@@ -63,11 +63,17 @@ body{
 .back6{
     background-color: #F9BA51;
 }
-.back3 a{
+.back3 p{
     font-size: 12px;
 }
-.back6 a{
+.back6 p{
     font-size: 14px;
+}
+.back4 p{
+    font-size: 14px;
+}
+.back2 p{
+    font-size: 16px;
 }
 .link {
     font-family: 'Manrope', sans-serif;
