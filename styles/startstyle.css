@@ -27,7 +27,7 @@ body{
     flex-wrap: wrap;
 }
 .back, .back1, .back2, .back3, .back4, .back5, .back6 {
-    height: 140px;
+    height: 25vw;
     width: 42vw;
     display: flex;
     flex-direction: column;
