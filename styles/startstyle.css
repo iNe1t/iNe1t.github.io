@@ -38,6 +38,9 @@ body{
     margin: 5px;
     margin-top: 25px;
 }
+.back p, .back1 p, .back2 p, .back3 p, .back4 p, .back5 p, .back6 p {
+    margin: 2px;
+}
 .back img, .back1 img, .back2 img, .back3 img, .back4 img, .back5 img, .back6 img {
     width: 100px;
     height: 80px;
