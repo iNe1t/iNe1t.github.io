@@ -27,7 +27,7 @@ body{
     flex-wrap: wrap;
 }
 .back, .back1, .back2, .back3, .back4, .back5, .back6 {
-    height: 140px;
+    height: 25vw;
     width: 42vw;
     display: flex;
     flex-direction: column;
@@ -37,6 +37,10 @@ body{
     border-radius: 30px;
     margin: 5px;
     margin-top: 25px;
+}
+.back p, .back1 p, .back2 p, .back3 p, .back4 p, .back5 p, .back6 p {
+    margin: 2px;
+    font-size:1,5rem;
 }
 .back img, .back1 img, .back2 img, .back3 img, .back4 img, .back5 img, .back6 img {
     width: 100px;
