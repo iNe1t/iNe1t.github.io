@@ -33,7 +33,7 @@ body {
     display: flex;
     justify-content: center;
 }
-.owner_page {
+.no_owner_page {
     background-color: #00B3BA;
     height: 200px;
     width: 94vw;
@@ -46,7 +46,20 @@ body {
     flex-direction: column;
     border-radius: 15px;
 }
-.owner_page p{
+.has_owner_page {
+    background-color: #3AAA35;
+    height: 200px;
+    width: 94vw;
+    margin: 10px;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    color: white;
+    font-size: 35px;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 15px;
+}
+.has_owner_page p, .no_owner_page p{
     text-align: center;
 }
 .collapse_container {
