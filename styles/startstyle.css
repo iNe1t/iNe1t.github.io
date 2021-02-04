@@ -37,6 +37,7 @@ body{
     border-radius: 30px;
     margin: 5px;
     margin-top: 25px;
+    min-height: 100px;
 }
 .back p, .back1 p, .back2 p, .back3 p, .back4 p, .back5 p, .back6 p {
     margin: 2px;

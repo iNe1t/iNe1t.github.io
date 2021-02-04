@@ -37,7 +37,7 @@
     padding-top: 25px;
 }
 .numb1 {
-    color: #00B3BA;
+    color: #282C62;
     font-size: 30px ;
 }
 .numb2 {
@@ -68,3 +68,8 @@
     font-size: 20px;
     text-align: center;
 }
+@media (orientation: landscape) {
+    .mainest {
+      height: 160vh;
+    }
+  }
